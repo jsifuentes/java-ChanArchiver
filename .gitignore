@@ -1,0 +1,6 @@
+/.idea
+/config.yaml
+/out
+META-INF
+*.iml
+.DS_Store

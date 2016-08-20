@@ -1,0 +1,16 @@
+database: 
+  type: mysql
+  host: 127.0.0.1
+  user: root
+  pass: test
+  database: chan
+server:
+  port: 1234
+archive:
+  enabled: true
+  disabled_msg:
+  blacklist: wg/f/gd/p/wsg/hr/gif
+  image_404: /images/image-404.png
+keys:
+  imgur: 
+  imageshack: 
